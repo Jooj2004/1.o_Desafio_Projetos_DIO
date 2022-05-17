@@ -6,3 +6,5 @@
 ## iniciando... ##
 Pelo oque entendi, tenho que por um repósitorio vazio apenas para mostrar que ja sei fazer isso.
 Para acessar a DIO [clique aqui](https://dio.me)
+
+* [x] acertei o link
